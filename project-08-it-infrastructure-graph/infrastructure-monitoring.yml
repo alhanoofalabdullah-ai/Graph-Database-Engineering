@@ -1,0 +1,9 @@
+infrastructure_metrics:
+
+  total_servers
+
+  cpu_usage
+
+  memory_usage
+
+  availability
