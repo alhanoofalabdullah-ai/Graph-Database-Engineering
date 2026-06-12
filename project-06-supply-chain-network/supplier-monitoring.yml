@@ -1,0 +1,9 @@
+supplier_metrics:
+
+  active_suppliers
+
+  supplier_performance_score
+
+  supplier_risk_score
+
+  supplier_dependencies
