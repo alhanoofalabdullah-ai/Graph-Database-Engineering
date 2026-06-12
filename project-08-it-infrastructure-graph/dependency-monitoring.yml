@@ -1,0 +1,9 @@
+dependency_metrics:
+
+  dependency_count
+
+  critical_dependencies
+
+  service_risk_score
+
+  impact_score
