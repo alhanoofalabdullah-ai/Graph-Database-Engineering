@@ -1,0 +1,9 @@
+database_metrics:
+
+  active_connections
+
+  memory_usage
+
+  cpu_usage
+
+  uptime
