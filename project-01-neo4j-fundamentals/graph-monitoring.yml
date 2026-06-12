@@ -1,0 +1,9 @@
+graph_metrics:
+
+  total_nodes
+
+  total_relationships
+
+  graph_size
+
+  query_execution_time
