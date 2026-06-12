@@ -1,0 +1,9 @@
+fraud_metrics:
+
+  fraud_cases
+
+  suspicious_transactions
+
+  fraud_ring_count
+
+  investigation_status
