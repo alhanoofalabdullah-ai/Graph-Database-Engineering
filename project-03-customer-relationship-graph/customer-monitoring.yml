@@ -1,0 +1,9 @@
+customer_metrics:
+
+  total_customers
+
+  customer_growth_rate
+
+  customer_retention_rate
+
+  loyalty_score
