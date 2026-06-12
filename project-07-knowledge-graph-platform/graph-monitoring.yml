@@ -1,0 +1,9 @@
+graph_metrics:
+
+  total_entities
+
+  total_relationships
+
+  graph_growth
+
+  graph_complexity
