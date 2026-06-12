@@ -1,0 +1,9 @@
+network_metrics:
+
+  total_users
+
+  total_friendships
+
+  network_density
+
+  active_users
