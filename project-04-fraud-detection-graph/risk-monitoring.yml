@@ -1,0 +1,9 @@
+risk_metrics:
+
+  customer_risk_score
+
+  account_risk_score
+
+  aml_alerts
+
+  compliance_status
