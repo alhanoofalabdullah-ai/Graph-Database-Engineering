@@ -1,0 +1,9 @@
+patient_metrics:
+
+  total_patients
+
+  patient_satisfaction_score
+
+  appointments
+
+  followups
