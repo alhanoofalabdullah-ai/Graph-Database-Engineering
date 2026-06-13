@@ -1,0 +1,9 @@
+security_metrics:
+
+  total_assets
+
+  attack_paths
+
+  security_incidents
+
+  security_health_score
