@@ -1,0 +1,9 @@
+risk_metrics:
+
+  risk_score
+
+  critical_vulnerabilities
+
+  attack_surface_score
+
+  exposure_level
