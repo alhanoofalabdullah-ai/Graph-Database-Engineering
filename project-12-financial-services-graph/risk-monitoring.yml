@@ -1,0 +1,9 @@
+risk_metrics:
+
+  credit_risk_score
+
+  default_probability
+
+  exposure_level
+
+  risk_trend
