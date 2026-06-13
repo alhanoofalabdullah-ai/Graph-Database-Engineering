@@ -1,0 +1,9 @@
+governance_metrics:
+
+  governance_score
+
+  metadata_completeness
+
+  ownership_coverage
+
+  compliance_status
