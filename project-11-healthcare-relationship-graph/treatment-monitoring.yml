@@ -1,0 +1,9 @@
+treatment_metrics:
+
+  treatment_success_rate
+
+  active_treatments
+
+  completed_treatments
+
+  treatment_outcomes
