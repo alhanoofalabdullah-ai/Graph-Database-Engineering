@@ -1,0 +1,9 @@
+lineage_metrics:
+
+  total_data_sources
+
+  total_data_flows
+
+  lineage_coverage
+
+  impact_score
