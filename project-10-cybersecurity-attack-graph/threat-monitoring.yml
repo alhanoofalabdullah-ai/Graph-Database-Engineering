@@ -1,0 +1,9 @@
+threat_metrics:
+
+  threat_score
+
+  active_threats
+
+  threat_actors
+
+  ioc_count
