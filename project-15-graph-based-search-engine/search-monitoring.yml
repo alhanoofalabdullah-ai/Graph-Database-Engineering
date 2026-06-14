@@ -1,0 +1,9 @@
+search_metrics:
+
+  total_searches
+
+  search_accuracy
+
+  search_response_time
+
+  query_volume
