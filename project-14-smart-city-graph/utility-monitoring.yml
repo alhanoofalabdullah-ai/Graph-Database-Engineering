@@ -1,0 +1,9 @@
+utility_metrics:
+
+  utility_availability
+
+  electricity_usage
+
+  water_usage
+
+  outage_events
