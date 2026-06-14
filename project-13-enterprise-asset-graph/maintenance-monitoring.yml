@@ -1,0 +1,9 @@
+maintenance_metrics:
+
+  maintenance_completion_rate
+
+  preventive_maintenance
+
+  corrective_maintenance
+
+  downtime_hours
