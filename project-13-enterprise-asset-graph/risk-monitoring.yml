@@ -1,0 +1,9 @@
+risk_metrics:
+
+  asset_risk_score
+
+  failure_probability
+
+  critical_dependencies
+
+  operational_risk
