@@ -1,0 +1,9 @@
+iot_metrics:
+
+  iot_devices_online
+
+  device_health
+
+  sensor_events
+
+  connectivity_score
