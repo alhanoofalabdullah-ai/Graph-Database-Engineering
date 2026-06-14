@@ -1,0 +1,9 @@
+asset_metrics:
+
+  total_assets
+
+  asset_health_score
+
+  asset_utilization
+
+  critical_assets
