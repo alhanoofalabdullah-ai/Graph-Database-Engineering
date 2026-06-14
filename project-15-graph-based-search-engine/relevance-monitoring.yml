@@ -1,0 +1,9 @@
+relevance_metrics:
+
+  semantic_relevance
+
+  entity_matches
+
+  recommendation_quality
+
+  search_precision
