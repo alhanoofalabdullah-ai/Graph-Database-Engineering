@@ -1,0 +1,9 @@
+quality_metrics:
+
+  data_quality_score
+
+  completeness
+
+  consistency
+
+  accuracy
