@@ -1,0 +1,9 @@
+ai_metrics:
+
+  ai_requests
+
+  ai_response_quality
+
+  semantic_score
+
+  reasoning_score
