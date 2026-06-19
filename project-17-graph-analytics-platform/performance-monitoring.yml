@@ -1,0 +1,9 @@
+performance_metrics:
+
+  query_execution_time
+
+  memory_usage
+
+  cpu_usage
+
+  graph_processing_time
