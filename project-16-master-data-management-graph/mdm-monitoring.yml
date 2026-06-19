@@ -1,0 +1,9 @@
+mdm_metrics:
+
+  total_master_records
+
+  golden_records
+
+  duplicate_records
+
+  customer360_coverage
